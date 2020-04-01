@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/xml">
+        <file>CityName.xml</file>
+    </qresource>
+</RCC>
